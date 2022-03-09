@@ -21,6 +21,9 @@ format:
 
 ## About Michael
 
+- <https://github.com/a-b-street/osm2lanes>
+- Software Engineer, ASML, Netherlands
+
 ## Talk outline
 
 1.  Background
